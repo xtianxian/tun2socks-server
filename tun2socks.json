@@ -1,6 +1,6 @@
 [
   {
-    "name": "CA Premium",
+    "name": "♦♦♦ CA ♦♦♦",
     "protocol": "socks5",
     "address": "ca-tun2socks.xtianxian.com",
     "port": "80",
@@ -17,7 +17,7 @@
     "premium": true
   },
   {
-    "name": "FR Premium",
+    "name": "♦♦♦ FR ♦♦♦",
     "protocol": "socks5",
     "address": "fr-tun2socks.xtianxian.com",
     "port": "80",
@@ -34,7 +34,7 @@
     "premium": true
   },
   {
-    "name": "DE Premium",
+    "name": "♦♦♦ DE ♦♦♦",
     "protocol": "socks5",
     "address": "de-tun2socks.xtianxian.com",
     "port": "80",
@@ -51,7 +51,7 @@
     "premium": true
   },
   {
-    "name": "PL Premium",
+    "name": "♦♦♦ PL ♦♦♦",
     "protocol": "socks5",
     "address": "pl-tun2socks.xtianxian.com",
     "port": "80",
@@ -68,7 +68,7 @@
     "premium": true
   },
   {
-    "name": "GB Premium",
+    "name": "♦♦♦ GB ♦♦♦",
     "protocol": "socks5",
     "address": "gb-tun2socks.xtianxian.com",
     "port": "80",
