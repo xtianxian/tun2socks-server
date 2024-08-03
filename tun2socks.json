@@ -1,6 +1,6 @@
 [
   {
-    "name": "CA",
+    "name": "CA SOCKS5",
     "protocol": "socks5",
     "address": "ca.xtianxian.com",
     "port": "80",
@@ -17,7 +17,7 @@
     "premium": true
   },
   {
-    "name": "CA",
+    "name": "CA DNS",
     "protocol": "dns",
     "address": "cans.xtianxian.com",
     "port": "80",
