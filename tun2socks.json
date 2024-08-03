@@ -17,6 +17,23 @@
     "premium": true
   },
   {
+    "name": "CA",
+    "protocol": "dns",
+    "address": "cans.xtianxian.com",
+    "port": "80",
+    "username": "tun2socks",
+    "password": "password",
+    "method": "None",
+    "obfsMode": "None",
+    "obfsHost": "",
+    "sshAuthMethod": "Password",
+    "sshKey": "",
+    "sshKeyFileName": "",
+    "sshKeyPassphrase": "",
+    "lockProfile": false,
+    "premium": true
+  },
+  {
     "name": "FR",
     "protocol": "socks5",
     "address": "fr.xtianxian.com",
