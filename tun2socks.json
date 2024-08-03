@@ -36,7 +36,7 @@
   {
     "name": "DE",
     "protocol": "socks5",
-    "address": "de-tun2socks.xtianxian.com",
+    "address": "de.xtianxian.com",
     "port": "80",
     "username": "tun2socks",
     "password": "password",
