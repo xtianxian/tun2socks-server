@@ -36,7 +36,7 @@
   {
     "name": "FR SOCKS5",
     "protocol": "socks5",
-    "address": "fr.xtianxian.com",
+    "address": "ca.xtianxian.com",
     "port": "80",
     "username": "tun2socks",
     "password": "password",
@@ -53,7 +53,7 @@
   {
     "name": "FR DNS",
     "protocol": "dns",
-    "address": "frns.xtianxian.com",
+    "address": "cans.xtianxian.com",
     "port": "80",
     "username": "tun2socks",
     "password": "password",
@@ -70,7 +70,7 @@
   {
     "name": "DE SOCKS5",
     "protocol": "socks5",
-    "address": "de.xtianxian.com",
+    "address": "ca.xtianxian.com",
     "port": "80",
     "username": "tun2socks",
     "password": "password",
@@ -87,7 +87,7 @@
   {
     "name": "DE DNS",
     "protocol": "dns",
-    "address": "dens.xtianxian.com",
+    "address": "cans.xtianxian.com",
     "port": "80",
     "username": "tun2socks",
     "password": "password",
@@ -104,7 +104,7 @@
   {
     "name": "PL SOCKS5",
     "protocol": "socks5",
-    "address": "pl.xtianxian.com",
+    "address": "ca.xtianxian.com",
     "port": "80",
     "username": "tun2socks",
     "password": "password",
@@ -121,7 +121,7 @@
   {
     "name": "PL DNS",
     "protocol": "dns",
-    "address": "plns.xtianxian.com",
+    "address": "cans.xtianxian.com",
     "port": "80",
     "username": "tun2socks",
     "password": "password",
@@ -138,7 +138,7 @@
   {
     "name": "GB SOCKS5",
     "protocol": "socks5",
-    "address": "gb.xtianxian.com",
+    "address": "ca.xtianxian.com",
     "port": "80",
     "username": "tun2socks",
     "password": "password",
@@ -155,7 +155,7 @@
   {
     "name": "GB DNS",
     "protocol": "dns",
-    "address": "gbns.xtianxian.com",
+    "address": "cans.xtianxian.com",
     "port": "80",
     "username": "tun2socks",
     "password": "password",
