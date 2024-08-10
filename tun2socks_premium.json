@@ -38,7 +38,7 @@
     {
       "name": "FR SOCKS5",
       "protocol": "socks5",
-      "address": "ca.xtianxian.com",
+      "address": "fr.xtianxian.com",
       "port": "80",
       "username": "tun2socks",
       "password": "password",
@@ -55,7 +55,7 @@
     {
       "name": "FR DNS",
       "protocol": "dns",
-      "address": "cans.xtianxian.com",
+      "address": "frns.xtianxian.com",
       "port": "80",
       "username": "tun2socks",
       "password": "password",
