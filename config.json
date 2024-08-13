@@ -1,6 +1,6 @@
 {
   "version": "4",
-  "premiumPrice": "10",
+  "premiumPrice": "5",
   "profiles": [
     {
       "name": "CA SOCKS5",
